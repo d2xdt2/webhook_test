@@ -7,6 +7,5 @@ d
 a
 ff
 
-fd
 
 f
