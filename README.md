@@ -4,5 +4,3 @@ x
 dfgf
 s
 d
-a
-f
